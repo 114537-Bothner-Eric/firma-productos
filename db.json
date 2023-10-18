@@ -166,56 +166,6 @@
         "unitOfMeasure": "juego",
         "idCategory": 104,
         "urlImage": "https://example.com/cepillos.jpg"
-      },
-      {
-        "idProducto": 15,
-        "name": "Escalera de Aluminio (6 pies)",
-        "description": "Una escalera de aluminio resistente y ligera para alcanzar lugares altos con seguridad.",
-        "unitPrice": 59.99,
-        "stockQuantity": 20,
-        "unitOfMeasure": "unidad",
-        "idCategory": 105,
-        "urlImage": "https://example.com/escalera.jpg"
-      },
-      {
-        "idProducto": 16,
-        "name": "Destornillador Phillips",
-        "description": "Un destornillador con punta Phillips para apretar y aflojar tornillos con cabeza en cruz.",
-        "unitPrice": 4.99,
-        "stockQuantity": 100,
-        "unitOfMeasure": "unidad",
-        "idCategory": 101,
-        "urlImage": "https://example.com/destornillador.jpg"
-      },
-      {
-        "idProducto": 17,
-        "name": "Soplete de Gas",
-        "description": "Un soplete de gas para trabajos de soldadura y soldadura blanda.",
-        "unitPrice": 24.99,
-        "stockQuantity": 40,
-        "unitOfMeasure": "unidad",
-        "idCategory": 102,
-        "urlImage": "https://example.com/soplete.jpg"
-      },
-      {
-        "idProducto": 18,
-        "name": "Llave de Tubo Ajustable",
-        "description": "Una llave de tubo ajustable para trabajos de fontanería y tuberías.",
-        "unitPrice": 10.49,
-        "stockQuantity": 60,
-        "unitOfMeasure": "unidad",
-        "idCategory": 109,
-        "urlImage": "https://example.com/llave-tubo.jpg"
-      },
-      {
-        "idProducto": 19,
-        "name": "Taladro Inalámbrico",
-        "description": "Un taladro inalámbrico con batería recargable para perforar con facilidad en cualquier lugar.",
-        "unitPrice": 79.99,
-        "stockQuantity": 25,
-        "unitOfMeasure": "unidad",
-        "idCategory": 102,
-        "urlImage": "https://example.com/taladro.jpg"
       }
     ]
   }
