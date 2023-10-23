@@ -1,84 +1,24 @@
 {
   "productos": [
-    {
-      "id": 1,
-      "name": "Martillo"
-    },
-    {
-      "id": 2,
-      "name": "Destornillador"
-    },
-    {
-      "id": 3,
-      "name": "Llave inglesa"
-    },
-    {
-      "id": 4,
-      "name": "Tornillos"
-    },
-    {
-      "id": 5,
-      "name": "Clavos"
-    },
-    {
-      "id": 6,
-      "name": "Cinta métrica"
-    },
-    {
-      "id": 7,
-      "name": "Sierra"
-    },
-    {
-      "id": 8,
-      "name": "Pala"
-    },
-    {
-      "id": 9,
-      "name": "Cepillo de alambre"
-    },
-    {
-      "id": 10,
-      "name": "Llave de tubo"
-    },
-    {
-      "id": 11,
-      "name": "Alicates"
-    },
-    {
-      "id": 12,
-      "name": "Cincel"
-    },
-    {
-      "id": 13,
-      "name": "Nivel"
-    },
-    {
-      "id": 14,
-      "name": "Candado"
-    },
-    {
-      "id": 15,
-      "name": "Brocas"
-    },
-    {
-      "id": 16,
-      "name": "Destornillador Phillips"
-    },
-    {
-      "id": 17,
-      "name": "Papel de lija"
-    },
-    {
-      "id": 18,
-      "name": "Cinta adhesiva"
-    },
-    {
-      "id": 19,
-      "name": "Arandela"
-    },
-    {
-      "id": 20,
-      "name": "Pernos"
-    }
+    { "id": 1, "name": "Martillo" },
+    { "id": 2, "name": "Destornillador Phillips" },
+    { "id": 3, "name": "Alicates de punta larga" },
+    { "id": 4, "name": "Cinta métrica" },
+    { "id": 5, "name": "Llave inglesa ajustable" },
+    { "id": 6, "name": "Clavos de acero" },
+    { "id": 7, "name": "Tornillos para madera" },
+    { "id": 8, "name": "Sierra para metales" },
+    { "id": 9, "name": "Cepillo metálico" },
+    { "id": 10, "name": "Broca para madera" },
+    { "id": 11, "name": "Nivel de burbuja" },
+    { "id": 12, "name": "Pegamento para PVC" },
+    { "id": 13, "name": "Cadenas de acero" },
+    { "id": 14, "name": "Cinta adhesiva de doble cara" },
+    { "id": 15, "name": "Llave allen" },
+    { "id": 16, "name": "Escuadra de carpintero" },
+    { "id": 17, "name": "Taladro eléctrico" },
+    { "id": 18, "name": "Cerradura de puerta" },
+    { "id": 19, "name": "Candado de combinación" },
+    { "id": 20, "name": "Cadena para bicicleta" }
   ]
 }
