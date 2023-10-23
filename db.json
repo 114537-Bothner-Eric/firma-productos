@@ -2,83 +2,83 @@
   "productos": [
     {
       "id": 1,
-      "nombre": "Martillo"
+      "name": "Martillo"
     },
     {
       "id": 2,
-      "nombre": "Destornillador"
+      "name": "Destornillador"
     },
     {
       "id": 3,
-      "nombre": "Llave inglesa"
+      "name": "Llave inglesa"
     },
     {
       "id": 4,
-      "nombre": "Tornillos"
+      "name": "Tornillos"
     },
     {
       "id": 5,
-      "nombre": "Clavos"
+      "name": "Clavos"
     },
     {
       "id": 6,
-      "nombre": "Cinta métrica"
+      "name": "Cinta métrica"
     },
     {
       "id": 7,
-      "nombre": "Sierra"
+      "name": "Sierra"
     },
     {
       "id": 8,
-      "nombre": "Pala"
+      "name": "Pala"
     },
     {
       "id": 9,
-      "nombre": "Cepillo de alambre"
+      "name": "Cepillo de alambre"
     },
     {
       "id": 10,
-      "nombre": "Llave de tubo"
+      "name": "Llave de tubo"
     },
     {
       "id": 11,
-      "nombre": "Alicates"
+      "name": "Alicates"
     },
     {
       "id": 12,
-      "nombre": "Cincel"
+      "name": "Cincel"
     },
     {
       "id": 13,
-      "nombre": "Nivel"
+      "name": "Nivel"
     },
     {
       "id": 14,
-      "nombre": "Candado"
+      "name": "Candado"
     },
     {
       "id": 15,
-      "nombre": "Brocas"
+      "name": "Brocas"
     },
     {
       "id": 16,
-      "nombre": "Destornillador Phillips"
+      "name": "Destornillador Phillips"
     },
     {
       "id": 17,
-      "nombre": "Papel de lija"
+      "name": "Papel de lija"
     },
     {
       "id": 18,
-      "nombre": "Cinta adhesiva"
+      "name": "Cinta adhesiva"
     },
     {
       "id": 19,
-      "nombre": "Arandela"
+      "name": "Arandela"
     },
     {
       "id": 20,
-      "nombre": "Pernos"
+      "name": "Pernos"
     }
   ]
 }
