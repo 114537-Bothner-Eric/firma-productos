@@ -1,76 +1,78 @@
 {
-  "products": [
-    {
-      "description": "cosas varias",
-      "name": "Amoladora Angular Versa Pro 2400 W 230 Mm Ferreteria Express",
-      "category": {
-        "name": "Herramientas",
-        "description": "lugar para guardar herramientas.",
-        "id_category": 2,
-        "is_deleted": null
+  "products": {
+    "products": [
+      {
+        "description": "cosas varias",
+        "name": "Amoladora Angular Versa Pro 2400 W 230 Mm Ferreteria Express",
+        "category": {
+          "name": "Herramientas",
+          "description": "lugar para guardar herramientas.",
+          "id_category": 2,
+          "is_deleted": null
+        },
+        "discount": null,
+        "id_product": 47,
+        "stock_quantity": 1600,
+        "unit_of_measure": null,
+        "unit_price": 13550,
+        "url_image": null,
+        "price_product": null,
+        "is_deleted": false
       },
-      "discount": null,
-      "id_product": 47,
-      "stock_quantity": 1600,
-      "unit_of_measure": null,
-      "unit_price": 13550,
-      "url_image": null,
-      "price_product": null,
-      "is_deleted": false
-    },
-    {
-      "description": "cosas varias",
-      "name": "Amoladora angular eléctrica 820 w 115 mm",
-      "category": {
-        "name": "Herramientas",
-        "description": "lugar para guardar herramientas.",
-        "id_category": 2,
-        "is_deleted": null
+      {
+        "description": "cosas varias",
+        "name": "Amoladora angular eléctrica 820 w 115 mm",
+        "category": {
+          "name": "Herramientas",
+          "description": "lugar para guardar herramientas.",
+          "id_category": 2,
+          "is_deleted": null
+        },
+        "discount": null,
+        "id_product": 53,
+        "stock_quantity": 2100,
+        "unit_of_measure": null,
+        "unit_price": 19000,
+        "url_image": null,
+        "price_product": null,
+        "is_deleted": false
       },
-      "discount": null,
-      "id_product": 53,
-      "stock_quantity": 2100,
-      "unit_of_measure": null,
-      "unit_price": 19000,
-      "url_image": null,
-      "price_product": null,
-      "is_deleted": false
-    },
-    {
-      "description": "cepillos",
-      "name": "Cepillos De Bronce Para Taladro",
-      "category": {
-        "name": "Productos Varios",
-        "description": "productos variado",
-        "id_category": 1,
-        "is_deleted": null
+      {
+        "description": "cepillos",
+        "name": "Cepillos De Bronce Para Taladro",
+        "category": {
+          "name": "Productos Varios",
+          "description": "productos variado",
+          "id_category": 1,
+          "is_deleted": null
+        },
+        "discount": null,
+        "id_product": 49,
+        "stock_quantity": 1700,
+        "unit_of_measure": null,
+        "unit_price": 1850,
+        "url_image": null,
+        "price_product": null,
+        "is_deleted": false
       },
-      "discount": null,
-      "id_product": 49,
-      "stock_quantity": 1700,
-      "unit_of_measure": null,
-      "unit_price": 1850,
-      "url_image": null,
-      "price_product": null,
-      "is_deleted": false
-    },
-    {
-      "description": null,
-      "name": "Carro porta herramientas",
-      "category": {
-        "name": "Productos Varios",
-        "description": "productos variado",
-        "id_category": 1,
-        "is_deleted": null
-      },
-      "discount": null,
-      "id_product": 52,
-      "stock_quantity": 2000,
-      "unit_of_measure": null,
-      "unit_price": 5950,
-      "url_image": null,
-      "price_product": null,
-      "is_deleted": false
-    }
-  ]
+      {
+        "description": null,
+        "name": "Carro porta herramientas",
+        "category": {
+          "name": "Productos Varios",
+          "description": "productos variado",
+          "id_category": 1,
+          "is_deleted": null
+        },
+        "discount": null,
+        "id_product": 52,
+        "stock_quantity": 2000,
+        "unit_of_measure": null,
+        "unit_price": 5950,
+        "url_image": null,
+        "price_product": null,
+        "is_deleted": false
+      }
+    ]
+  }
 }
